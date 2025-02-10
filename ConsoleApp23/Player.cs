@@ -11,6 +11,7 @@ namespace ConsoleApp23
         public string Name { get; set; }
         public string Position { get; set; }
 
+        //
         public Player(string name, string position)
         {
             Name = name;
